@@ -1,7 +1,7 @@
 ### Hi Everyone 👋
 
 <!--
-**xiaoshazhe /xiaoshazhe ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**xiaoshazhe/xiaoshazhe ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![xiaoshazhe's github stats](https://github-readme-stats.vercel.app/api?username=xiaoshazhe &show_icons=true&theme=)](https://github.com/xiaoshazhe)
-![language](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoshazhe &layout=compact)
+[![xiaoshazhe's github stats](https://github-readme-stats.vercel.app/api?username=xiaoshazhe&show_icons=true&theme=)](https://github.com/xiaoshazhe)
+![language](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoshazhe&layout=compact)
 
 
 ## 🚀💻 Technologies & Tools
