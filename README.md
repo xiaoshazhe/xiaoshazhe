@@ -10,7 +10,9 @@
 <!-- profile-3d-contrib 3D贡献图-->
 <img src="https://cdn.jsdelivr.net/gh/xiaoshazhe/xiaoshazhe/profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
-
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=xiaoshazhe&theme=xcode" />
+</div>
 
 
 <!--  skill badge 技能徽章 -->
