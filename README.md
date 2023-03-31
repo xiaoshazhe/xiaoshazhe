@@ -1,16 +1,26 @@
-
-<!--动态打字效果-->
-<h1 align="center">
-  <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=pandanic探索自我，拥抱自由!&center=true&size=27">
-  </a>
-</h1>
-
-
 <div align="center">
-    <img  src="https://visitor-badge.glitch.me/badge?page_id=xiaoshazhe" />
-</div>
+  <!--动态打字效果-->
+  <h1 align="center">
+    <a href="https://sunguoqi.com/">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=pandanic探索自我，拥抱自由!&center=true&size=27">
+    </a>
+  </h1>
 
+
+  <div align="center">
+      <img  src="https://visitor-badge.glitch.me/badge?page_id=xiaoshazhe" />
+  </div>
+
+   <!-- profile logo 个人资料徽标 -->
+  <div align="center">
+    <a href="https://pandanic.club/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <!-- visitor statistics logo 访客数统计徽标 -->
+    <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" alt="访客统计" />
+  </div>
+  
+    <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <img src="https://cdn.jsdelivr.net/gh/xiaoshazhe/xiaoshazhe/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</div>
 
 <!--  skill badge 技能徽章 -->
 💪 正在学习
