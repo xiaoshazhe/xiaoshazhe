@@ -88,6 +88,9 @@
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 
 
+  <!-- GitHub 奖杯🏆 -->
+  <img  src="https://github-profile-trophy.vercel.app/?username=xiaoshazhe&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
+
 
 
   <!-- GitHub 数据统计 -->
