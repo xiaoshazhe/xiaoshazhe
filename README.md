@@ -7,11 +7,8 @@
 </h1>
 
 
-<!-- profile-3d-contrib 3D贡献图-->
-<img src="https://cdn.jsdelivr.net/gh/xiaoshazhe/xiaoshazhe/profile-3d-contrib/profile-night-rainbow.svg" />
-</div>
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=xiaoshazhe&theme=xcode" />
+    <img  src="https://visitor-badge.glitch.me/badge?page_id=xiaoshazhe" />
 </div>
 
 
