@@ -15,7 +15,8 @@
   </div>
   
     <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <img src="https://cdn.jsdelivr.net/gh/xiaoshazhe/xiaoshazhe/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
+
 
 
 
