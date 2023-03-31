@@ -98,10 +98,10 @@
     <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xiaoshazhe&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
   </div>
   
-  
+  <!--metrics 活动面板-->
   <div align="center">
     <img src="https://metrics.lecoq.io/xiaoshazhe?template=classic&config.timezone=Asia%2FShanghai">
-</div>
+  </div>
   
   
 <!-- GitHub Activity Graph GitHub 活动图 -->
@@ -111,9 +111,6 @@
   </tr>
 </table>
 
-  
-  
-  
   </div>
 
 </div>
