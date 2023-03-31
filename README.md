@@ -1,13 +1,15 @@
 
-### Hi Everyone 👋
+<!--动态打字效果-->
 <h1 align="center">
   <a href="https://sunguoqi.com/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=pandanic探索自我，拥抱自由!&center=true&size=27">
   </a>
 </h1>
 
-[![xiaoshazhe's github stats](https://github-readme-stats.vercel.app/api?username=xiaoshazhe&show_icons=true&theme=)](https://github.com/xiaoshazhe)
 
+<!-- profile-3d-contrib 3D贡献图-->
+<img src="https://cdn.jsdelivr.net/gh/xiaoshazhe/xiaoshazhe/profile-3d-contrib/profile-night-rainbow.svg" />
+</div>
 
 
 
@@ -78,10 +80,6 @@
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
-
-<!-- profile-3d-contrib 3D贡献图-->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
-</div>
 
 
 
