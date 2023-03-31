@@ -14,9 +14,10 @@
     <img src="https://visitor-badge.glitch.me/badge?page_id=xiaoshazhe" alt="访客统计" />
   </div>
   
-  <!-- 连续提交代码的天数及贡献总数 -->
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=xiaoshazhe&theme=dark&hide_border=true" />
-
+  <div align="center">
+    <!-- 连续提交代码的天数及贡献总数 -->
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=xiaoshazhe&theme=dark&hide_border=true" />
+  </div>
 
 
   <!--  skill badge 技能徽章 -->
@@ -85,17 +86,20 @@
   <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 
   <!-- just img 图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
 
 
-  <!-- GitHub 奖杯🏆 -->
-  <img  src="https://github-profile-trophy.vercel.app/?username=xiaoshazhe&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
-
-
-
-  <!-- GitHub 数据统计 -->
-  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xiaoshazhe&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-
+  <div align="center">
+    <!-- GitHub 奖杯🏆 -->
+    <img  src="https://github-profile-trophy.vercel.app/?username=xiaoshazhe&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
+  </div>
+  <div align="center">
+    <!-- GitHub 数据统计 -->
+    <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xiaoshazhe&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+    <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xiaoshazhe&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
+  </div>
+  
+  </div>
 
 </div>
 
