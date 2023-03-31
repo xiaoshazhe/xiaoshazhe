@@ -27,3 +27,11 @@ Here are some ideas to get you started:
   ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
   ![Go](https://img.shields.io/badge/Go-blue?style=flat-square&logo=go)
+
+
+
+<h1 align="center">
+  <a href="https://sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小孙同学祝您今天愉快!&center=true&size=27">
+  </a>
+</h1>
