@@ -1,11 +1,11 @@
+
+### Hi Everyone 👋
 <h1 align="center">
   <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);pandanic 探索自我 拥抱自由!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);pandanic探索自我，拥抱自由!&center=true&size=27">
   </a>
 </h1>
 
-
-### Hi Everyone 👋
 <!--
 **xiaoshazhe/xiaoshazhe ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
